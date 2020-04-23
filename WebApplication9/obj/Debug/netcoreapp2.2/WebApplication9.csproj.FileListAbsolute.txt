@@ -1,0 +1,66 @@
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\bin\Debug\netcoreapp2.2\appsettings.json
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\bin\Debug\netcoreapp2.2\libman.json
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.deps.json
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.runtimeconfig.json
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.runtimeconfig.dev.json
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.dll
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.pdb
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.Views.dll
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.Views.pdb
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.RazorAssemblyInfo.cache
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.RazorAssemblyInfo.cs
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.AssemblyInfoInputs.cache
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.AssemblyInfo.cs
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.TagHelpers.input.cache
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.TagHelpers.output.cache
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.RazorCoreGenerate.cache
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.RazorTargetAssemblyInfo.cache
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.RazorTargetAssemblyInfo.cs
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.Views.pdb
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.dll
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.pdb
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.csproj.CopyComplete
+D:\sunil\ASP.NET\17-02-2020(MVC)\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.deps.json
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.runtimeconfig.json
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.runtimeconfig.dev.json
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.dll
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.pdb
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.Views.dll
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\bin\Debug\netcoreapp2.2\WebApplication9.Views.pdb
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.RazorAssemblyInfo.cache
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.RazorAssemblyInfo.cs
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.AssemblyInfoInputs.cache
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.AssemblyInfo.cs
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.TagHelpers.input.cache
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.TagHelpers.output.cache
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.RazorCoreGenerate.cache
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.RazorTargetAssemblyInfo.cache
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.RazorTargetAssemblyInfo.cs
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.Views.pdb
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.dll
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.pdb
+C:\Users\Chetan Patel\Desktop\Internship\WebApplication9\obj\Debug\netcoreapp2.2\WebApplication9.csproj.CopyComplete
