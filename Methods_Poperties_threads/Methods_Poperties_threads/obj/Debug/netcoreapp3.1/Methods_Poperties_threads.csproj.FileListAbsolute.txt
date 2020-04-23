@@ -1,0 +1,11 @@
+C:\Users\Chetan Patel\Desktop\Internship\Threads\Methods_Poperties_threads\Methods_Poperties_threads\bin\Debug\netcoreapp3.1\Methods_Poperties_threads.exe
+C:\Users\Chetan Patel\Desktop\Internship\Threads\Methods_Poperties_threads\Methods_Poperties_threads\bin\Debug\netcoreapp3.1\Methods_Poperties_threads.deps.json
+C:\Users\Chetan Patel\Desktop\Internship\Threads\Methods_Poperties_threads\Methods_Poperties_threads\bin\Debug\netcoreapp3.1\Methods_Poperties_threads.runtimeconfig.json
+C:\Users\Chetan Patel\Desktop\Internship\Threads\Methods_Poperties_threads\Methods_Poperties_threads\bin\Debug\netcoreapp3.1\Methods_Poperties_threads.runtimeconfig.dev.json
+C:\Users\Chetan Patel\Desktop\Internship\Threads\Methods_Poperties_threads\Methods_Poperties_threads\bin\Debug\netcoreapp3.1\Methods_Poperties_threads.dll
+C:\Users\Chetan Patel\Desktop\Internship\Threads\Methods_Poperties_threads\Methods_Poperties_threads\bin\Debug\netcoreapp3.1\Methods_Poperties_threads.pdb
+C:\Users\Chetan Patel\Desktop\Internship\Threads\Methods_Poperties_threads\Methods_Poperties_threads\obj\Debug\netcoreapp3.1\Methods_Poperties_threads.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\Desktop\Internship\Threads\Methods_Poperties_threads\Methods_Poperties_threads\obj\Debug\netcoreapp3.1\Methods_Poperties_threads.AssemblyInfoInputs.cache
+C:\Users\Chetan Patel\Desktop\Internship\Threads\Methods_Poperties_threads\Methods_Poperties_threads\obj\Debug\netcoreapp3.1\Methods_Poperties_threads.AssemblyInfo.cs
+C:\Users\Chetan Patel\Desktop\Internship\Threads\Methods_Poperties_threads\Methods_Poperties_threads\obj\Debug\netcoreapp3.1\Methods_Poperties_threads.dll
+C:\Users\Chetan Patel\Desktop\Internship\Threads\Methods_Poperties_threads\Methods_Poperties_threads\obj\Debug\netcoreapp3.1\Methods_Poperties_threads.pdb
