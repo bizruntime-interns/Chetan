@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+<style>
+    .bar-chart {
+        background-color: #c7d9d9;
+    }
+</style>
+
+<body>
+    <h1>Bar Chart using D3.js</h1>
+
+    <svg class="bar-chart"></svg>
+    <script>
+
+        var dataset = [80, 100, 56, 120, 180, 30, 40, 120, 160];
+
+        var svgWidth = 500, svgHeight = 300, barPadding = 5;
+        var barWidth = (svgWidth / dataset.length);
+
+        var svg = d3.select('svg')
+            .attr("width", svgWidth)
+            .attr("height", svgHeight);
+
+        var barChart = svg.selectAll("rect")
+            .data(dataset)
+            .enter()
+            .append("rect")
+            .attr("y", function (d) {
+                return svgHeight - d
+            })
+            .attr("height", function (d) {
+                return d;
+            })
+            .attr("width", barWidth - barPadding)
+            .attr("transform", function (d, i) {
+                var translate = [barWidth * i, 0];
+                return "translate(" + translate + ")";
+            });
+
+        var text = svg.selectAll("text")
+            .data(dataset)
+            .enter()
+            .append("text")
+            .text(function (d) {
+                return d;
+            })
+            .attr("y", function (d, i) {
+                return svgHeight - d - 2;
+            })
+            .attr("x", function (d, i) {
+                return barWidth * i;
+            })
+            .attr("fill", "#A64C38");
+    </script>
+</body>
+
+</html>
