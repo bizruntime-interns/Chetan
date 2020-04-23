@@ -1,0 +1,9 @@
+C:\Users\Chetan Patel\Desktop\Internship\ADONET\ADOInsert\ADOInsert\bin\Debug\ADOInsert.exe.config
+C:\Users\Chetan Patel\Desktop\Internship\ADONET\ADOInsert\ADOInsert\bin\Debug\ADOInsert.exe
+C:\Users\Chetan Patel\Desktop\Internship\ADONET\ADOInsert\ADOInsert\bin\Debug\ADOInsert.pdb
+C:\Users\Chetan Patel\Desktop\Internship\ADONET\ADOInsert\ADOInsert\obj\Debug\ADOInsert.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\Desktop\Internship\ADONET\ADOInsert\ADOInsert\obj\Debug\ADOInsert.exe
+C:\Users\Chetan Patel\Desktop\Internship\ADONET\ADOInsert\ADOInsert\obj\Debug\ADOInsert.pdb
+C:\Users\Chetan Patel\Desktop\Internship\ADONET\ADOInsert\ADOInsert\bin\Debug\log4net.dll
+C:\Users\Chetan Patel\Desktop\Internship\ADONET\ADOInsert\ADOInsert\bin\Debug\log4net.xml
+C:\Users\Chetan Patel\Desktop\Internship\ADONET\ADOInsert\ADOInsert\obj\Debug\ADOInsert.csproj.CopyComplete

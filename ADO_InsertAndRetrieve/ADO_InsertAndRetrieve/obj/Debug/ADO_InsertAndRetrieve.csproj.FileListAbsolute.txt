@@ -1,0 +1,6 @@
+C:\Users\Chetan Patel\source\repos\ADO_InsertAndRetrieve\ADO_InsertAndRetrieve\bin\Debug\ADO_InsertAndRetrieve.exe.config
+C:\Users\Chetan Patel\source\repos\ADO_InsertAndRetrieve\ADO_InsertAndRetrieve\bin\Debug\ADO_InsertAndRetrieve.exe
+C:\Users\Chetan Patel\source\repos\ADO_InsertAndRetrieve\ADO_InsertAndRetrieve\bin\Debug\ADO_InsertAndRetrieve.pdb
+C:\Users\Chetan Patel\source\repos\ADO_InsertAndRetrieve\ADO_InsertAndRetrieve\obj\Debug\ADO_InsertAndRetrieve.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\source\repos\ADO_InsertAndRetrieve\ADO_InsertAndRetrieve\obj\Debug\ADO_InsertAndRetrieve.exe
+C:\Users\Chetan Patel\source\repos\ADO_InsertAndRetrieve\ADO_InsertAndRetrieve\obj\Debug\ADO_InsertAndRetrieve.pdb

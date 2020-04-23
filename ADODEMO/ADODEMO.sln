@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADODEMO", "ADODEMO\ADODEMO.csproj", "{65F6AC64-3354-475B-9B05-EE0598AE48EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65F6AC64-3354-475B-9B05-EE0598AE48EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65F6AC64-3354-475B-9B05-EE0598AE48EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65F6AC64-3354-475B-9B05-EE0598AE48EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65F6AC64-3354-475B-9B05-EE0598AE48EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45F58D2A-9ABC-4E4D-A7ED-2E167D126AB5}
+	EndGlobalSection
+EndGlobal
