@@ -1,0 +1,323 @@
+<button mat-button>Hello World</button>
+<!-- typography -->
+<div class="mat-display-4">DISPLAY 4</div>
+
+<div class="mat-headline">headline</div>
+<div class="mat-title">Title</div>
+<div class="mat-subheading-2">subheading</div>
+<div class="mat-subheading-1">subheading-1</div>
+
+<!-- Buttons -->
+
+<div>
+  <button mat-raised-button>click me</button>
+  <button mat-flat-button>Click me</button>
+  <button mat-stroked-button>Click me</button>
+</div>
+
+<div>
+  <button mat-icon-button>Icon</button>
+  <button mat-fab>Fab</button>
+  <button mat-mini-fab>minifab</button>
+</div>
+
+<div>
+  <button color="primary" mat-button>primary</button>
+  <button color="accent" mat-button>accent</button>
+  <button color="warn" disableRipple mat-button>warn</button>
+  <button color="primary" mat-raised-button>primary</button>
+  <button color="accent" mat-raised-button>accent</button>
+  <button color="warn" mat-raised-button>warn</button>
+</div>
+
+<!-- ButtonToggle -->
+<div>
+  <mat-button-toggle #toggleBtn>Toggle</mat-button-toggle>
+  {{toggleBtn.checked}}
+</div>
+
+<div>
+  <mat-button-toggle-group #toggleGroup="matButtonToggleGroup" multiple>
+    <mat-button-toggle value="angular">Angular</mat-button-toggle>
+    <mat-button-toggle value="react">React</mat-button-toggle>
+    <mat-button-toggle value="vue">Vue</mat-button-toggle>
+  </mat-button-toggle-group>
+  {{toggleGroup.value}}
+</div>
+
+
+<!-- Icons -->
+<div>
+  <mat-icon color="primary">card_giftcard</mat-icon>
+</div>
+
+<!-- Badge -->
+
+<div>
+  <span [matBadge]="notifications" [matBadgeHidden]="notifications ===0">Notifications</span>
+</div>
+<div>
+  <span matBadge="2" matBadgeSize="small" matBadgePosition="below before">Notifications</span>
+</div>
+<div>
+  <span matBadge="2" matBadgeOverlap="false" matBadgeColor="accent" matBadgePosition="below after">Notifications</span>
+</div>
+<div>
+  <span matBadge="2" matBadgePosition="above before">Notifications</span>
+</div>
+
+<!-- progress Spinner -->
+<mat-progress-spinner value="50"></mat-progress-spinner>
+<mat-spinner *ngIf="showSpinner" color="accent"></mat-spinner>
+<button (click)="loadData()">Load data</button>
+
+
+<!-- Toolbar -->
+
+<mat-toolbar color="primary" class="navbar">
+  <div>Venkateshwara Plywoods</div>
+  <div>
+    <span>Home</span>
+    <span>About</span>
+  </div>
+</mat-toolbar>
+
+<!-- sidenav -->
+<mat-sidenav-container>
+  <mat-sidenav #sidenav mode="side" [(opened)]="opened">Sidenav</mat-sidenav>
+  <mat-sidenav-content>Main
+    <button (click)="opened=!opened">Toggle Opened</button>
+    <button (click)="sidenav.open()">Open</button>
+    <button (click)="sidenav.close()">Closed</button>
+  </mat-sidenav-content>
+</mat-sidenav-container>
+
+<!-- Menu -->
+<mat-menu #appMenu="matMenu">
+  <button mat-menu-item [matMenuTriggerFor]="subMenu">FrontEnd</button>
+  <button mat-menu-item>BackEnd</button>
+</mat-menu>
+
+<button mat-flat-button [matMenuTriggerFor]="appMenu">Menu</button>
+
+<mat-menu #subMenu="matMenu">
+  <button mat-menu-item>Angular</button>
+  <button mat-menu-item>React</button>
+  <button mat-menu-item>Vue</button>
+</mat-menu>
+
+<!-- list -->
+<mat-list dense>
+  <mat-list-item>Item 1</mat-list-item>
+  <mat-list-item>Item 2</mat-list-item>
+  <mat-list-item>Item 3</mat-list-item>
+</mat-list>
+
+<mat-nav-list>
+  <a mat-list-item href="#">Home</a>
+  <a mat-list-item href="#">About</a>
+  <a mat-list-item href="#">Service</a>
+</mat-nav-list>
+
+<!-- gridlist -->
+<mat-grid-list cols="2" rowHeight="2:1" gutterSize="10px">
+  <mat-grid-tile>Tile 1</mat-grid-tile>
+  <mat-grid-tile>Tile 2</mat-grid-tile>
+  <mat-grid-tile>Tile 3</mat-grid-tile>
+  <mat-grid-tile>Tile 4</mat-grid-tile>
+</mat-grid-list>
+
+<!-- expansion panel -->
+<mat-accordion>
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        Angular Fundamentals
+      </mat-panel-title>
+      <mat-panel-description>
+        Total duration:3 hours
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+    <p>This is panel content. Add course details.</p>
+    <mat-action-row>
+      <button mat-button>Enroll</button>
+    </mat-action-row>
+  </mat-expansion-panel>
+  
+  <mat-expansion-panel>
+    <mat-expansion-panel-header>
+      <mat-panel-title>
+        Angular Material
+      </mat-panel-title>
+      <mat-panel-description>
+        Total duration:2 hours
+      </mat-panel-description>
+    </mat-expansion-panel-header>
+    <p>This is panel content. Add course details.</p>
+    <mat-action-row>
+      <button mat-button>Enroll</button>
+    </mat-action-row>
+  </mat-expansion-panel>
+</mat-accordion>
+
+<!-- card -->
+<mat-card>
+  <mat-card-title>
+    Card title
+  </mat-card-title>
+  <mat-card-content>
+    This is card content.
+  </mat-card-content>
+  <mat-card-actions algin="end">
+    <button mat-flat-button>Login</button>
+  </mat-card-actions>
+</mat-card>
+
+<!-- tabs -->
+<mat-tab-group #tabRef>
+  <mat-tab label="Angular">Angular content</mat-tab>
+  <mat-tab label="React">React content</mat-tab>
+  <mat-tab label="Vue">Vue content</mat-tab>
+</mat-tab-group>
+
+<!-- stepper -->
+<mat-horizontal-stepper linear>
+  <mat-step label="Shipping Address" completed=true>
+    <p>Shipping Address Details</p>
+  </mat-step>
+  <mat-step label="Billing Address" completed=false optional>
+    <p>Billing Address Details</p>
+    <button mat-button matStepperPrevious>Back</button>
+    <button mat-button matStepperNext>Next</button>
+  </mat-step>
+  <mat-step label="Place Order" completed=false>
+    <p>Order Details</p>
+  </mat-step>
+</mat-horizontal-stepper>
+
+<!-- Input -->
+<mat-form-field floatLabel="auto" appearance="fill">
+  <mat-label>Name</mat-label>
+  <input matInput required>
+  <mat-hint align="end">Min 5 Char</mat-hint>
+</mat-form-field>
+
+<!-- select -->
+<div>
+  <mat-form-field>
+    <mat-label>Topic</mat-label>
+    <mat-select [(value)]="selectedValue" multiple>
+      <mat-option>None</mat-option>
+      <mat-optgroup label="Web">
+        <mat-option value="angular">Angular</mat-option>
+        <mat-option value="react">React</mat-option>
+        <mat-option value="vue">Vue</mat-option>
+      </mat-optgroup>
+      <mat-optgroup label="Mobile">
+        <mat-option value="ionic">Ionic</mat-option>
+        <mat-option value="react2">React2</mat-option>
+        <mat-option value="vue2">Vue2</mat-option>
+      </mat-optgroup>
+    </mat-select>
+  </mat-form-field>
+  {{selectedValue}}
+</div>
+
+<!-- Autocomplete -->
+
+<form>
+  <mat-form-field>
+    <input type="text" matInput [matAutocomplete]="auto" [formControl]="myControl" />
+    <mat-autocomplete #auto="matAutocomplete" [displayWith]="displayFn">
+      <mat-option *ngFor="let option of filteredOptions | async" [value]="option">
+        {{option}}
+      </mat-option>
+    </mat-autocomplete>
+  </mat-form-field>
+</form>
+
+<!-- checkbox -->
+<mat-checkbox labelPosition="before" color="warn">
+  Subscribe
+</mat-checkbox>
+
+<!-- RadioButton -->
+<mat-radio-group>
+  <mat-radio-button value="angular">Angular</mat-radio-button>
+  <mat-radio-button value="material">Angular Material</mat-radio-button>
+</mat-radio-group>
+
+<!-- Datepicker -->
+<!-- <mat-form-field>
+  <mat-label>Choose a date</mat-label>
+  <input matInput [matDatepicker]="picker">
+  <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+  <mat-datepicker #picker></mat-datepicker>
+</mat-form-field> -->
+
+<!-- Tooltip -->
+<br/>
+<br/>
+<button mat-raised-button matTooltip="welcome"
+  matTooltipPosition="before"
+  matTooltipShowDelay="2000"
+  matTooltipHideDelay="2000">HELLO</button>
+
+  <!-- snackbar -->
+  <button mat-button (click)="openSnackBar('item deleted','Dismiss')">show snack bar</button>
+
+  <!-- Dialog -->
+  <button mat-raised-button (click)="openDialog()">open dialog</button>
+
+
+  <!-- Data Table -->
+
+  <div>
+    <!-- filtering -->
+    <mat-form-field>
+      <input (keyup)="applyFilter($event.target.value)" matInput placeholder="Filter">
+    </mat-form-field>
+    <div class="mat-elevation-z8">
+      <mat-table [dataSource]="dataSource" matSort >
+        <!-- Position Column -->
+        <ng-container matColumnDef="position">
+          <mat-header-cell mat-sort-header *matHeaderCellDef> No. </mat-header-cell>
+          <mat-cell *matCellDef="let element"> {{element.position}} </mat-cell>
+        </ng-container>
+      
+        <!-- Name Column -->
+        <ng-container matColumnDef="name">
+          <mat-header-cell mat-sort-header *matHeaderCellDef> Name </mat-header-cell>
+          <mat-cell *matCellDef="let element"> {{element.name}} </mat-cell>
+        </ng-container>
+      
+        <!-- Weight Column -->
+        <ng-container matColumnDef="weight">
+          <mat-header-cell mat-sort-header *matHeaderCellDef> Weight </mat-header-cell>
+          <mat-cell *matCellDef="let element"> {{element.weight}} </mat-cell>
+        </ng-container>
+      
+        <!-- Symbol Column -->
+        <ng-container matColumnDef="symbol">
+          <mat-header-cell *matHeaderCellDef> Symbol </mat-header-cell>
+          <mat-cell *matCellDef="let element"> {{element.symbol}} </mat-cell>
+        </ng-container>
+      
+        <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+        <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+      </mat-table>
+      <mat-paginator [pageSizeOptions]="[5,10,20]" showFirstLastButtons></mat-paginator>
+    </div>
+  </div>
+
+
+  <!-- Scrolling -->
+  <cdk-virtual-scroll-viewport itemSize="100" class="container">
+    <div *cdkVirtualFor="let number of numbers" class="number">
+      {{number}}
+    </div>
+  </cdk-virtual-scroll-viewport>
+  
+
+
+  
