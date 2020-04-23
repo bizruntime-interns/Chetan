@@ -1,0 +1,8 @@
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\Contracts\bin\Debug\netstandard2.0\Contracts.deps.json
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\Contracts\bin\Debug\netstandard2.0\Contracts.dll
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\Contracts\bin\Debug\netstandard2.0\Contracts.pdb
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\Contracts\obj\Debug\netstandard2.0\Contracts.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\Contracts\obj\Debug\netstandard2.0\Contracts.AssemblyInfo.cs
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\Contracts\obj\Debug\netstandard2.0\Contracts.dll
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\Contracts\obj\Debug\netstandard2.0\Contracts.pdb

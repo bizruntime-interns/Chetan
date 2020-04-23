@@ -1,0 +1,11 @@
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\ProductActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\ProductActorService.Interfaces.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\ProductActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\ProductActorService.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\ProductActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\ProductActorService.Interfaces.AssemblyInfo.cs
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\ProductActorService.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\ProductActorService.Interfaces.deps.json
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\ProductActorService.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\ProductActorService.Interfaces.dll
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\ProductActorService.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\ProductActorService.Interfaces.pdb
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\ProductActorService.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\Contracts.dll
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\ProductActorService.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\Contracts.pdb
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\ProductActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\ProductActorService.Interfaces.csproj.CopyComplete
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\ProductActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\ProductActorService.Interfaces.dll
+C:\Users\Chetan Patel\Desktop\Internship\Service Fabric\productActorApllication\ProductActorService.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\ProductActorService.Interfaces.pdb
