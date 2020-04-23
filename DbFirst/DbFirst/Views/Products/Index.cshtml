@@ -1,0 +1,15 @@
+﻿@model IEnumerable<DbFirst.Models.tblProduct>
+
+@{ 
+    ViewBag.Title = "Index";
+}
+
+<h2>Products List</h2>
+<ol>
+    @foreach(var item in Model)
+    {
+        <li>@Html.ActionLink(item.ProductName,"Details",new { id = item.ProductId })</li>
+    }
+</ol>
+<br/>
+@Html.ActionLink("Back to Categories","Index","Categories")
