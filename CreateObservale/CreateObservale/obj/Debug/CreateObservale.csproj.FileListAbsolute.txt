@@ -1,0 +1,15 @@
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\bin\Debug\CreateObservale.exe.config
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\bin\Debug\CreateObservale.exe
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\bin\Debug\CreateObservale.pdb
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\bin\Debug\System.Reactive.dll
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\bin\Debug\System.ValueTuple.dll
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\bin\Debug\System.Reactive.xml
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\bin\Debug\System.ValueTuple.xml
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\obj\Debug\CreateObservale.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\obj\Debug\CreateObservale.csproj.CopyComplete
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\obj\Debug\CreateObservale.exe
+C:\Users\Chetan Patel\Desktop\Internship\Rx.Net\CreateObservale\CreateObservale\obj\Debug\CreateObservale.pdb
