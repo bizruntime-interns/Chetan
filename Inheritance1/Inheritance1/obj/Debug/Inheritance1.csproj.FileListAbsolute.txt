@@ -1,0 +1,7 @@
+C:\Users\Chetan Patel\Desktop\C# Examples\Inheritance1\Inheritance1\bin\Debug\Inheritance1.exe.config
+C:\Users\Chetan Patel\Desktop\C# Examples\Inheritance1\Inheritance1\bin\Debug\Inheritance1.exe
+C:\Users\Chetan Patel\Desktop\C# Examples\Inheritance1\Inheritance1\bin\Debug\Inheritance1.pdb
+C:\Users\Chetan Patel\Desktop\C# Examples\Inheritance1\Inheritance1\obj\Debug\Inheritance1.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\Desktop\C# Examples\Inheritance1\Inheritance1\obj\Debug\Inheritance1.csproj.CoreCompileInputs.cache
+C:\Users\Chetan Patel\Desktop\C# Examples\Inheritance1\Inheritance1\obj\Debug\Inheritance1.exe
+C:\Users\Chetan Patel\Desktop\C# Examples\Inheritance1\Inheritance1\obj\Debug\Inheritance1.pdb
