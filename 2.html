@@ -1,0 +1,35 @@
+<html>
+<body>
+
+<p>Creating a JavaScript Object.</p>
+
+<p id="demo"></p>
+
+<script>
+var person = { 
+  
+    // Propertise 
+
+    first_name: "Sumit", 
+    last_name: "Ghosh", 
+  
+    // Methods 
+    getName: function ()  
+    { 
+        return "Person name is " + this.first_name + " " + this.last_name; 
+    }, 
+    phone_number:  
+    { 
+        Mobile: "12345", 
+        LandLine: " 678910"
+    } 
+} ;
+document.write(person.getName()); 
+document.write("\n Persons First Name " + person.first_name 
+    + " Landline number " + person.phone_number.LandLine+" Mobile number " + person.phone_number.Mobile); 
+alert(person.first_name + " mobile number is " + person.phone_number.Mobile); 
+
+</script>
+
+</body>
+</html>

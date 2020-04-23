@@ -1,0 +1,31 @@
+<html>
+<head>
+<script type="text/javascript">
+	function over()
+	{
+		document.write("HELLO");
+	}
+
+	function ok()
+	{
+		alert("Warning");
+		document.write("clicked");
+	}
+
+	/*function out()
+	{
+		document.write("BYE");
+	}*/
+</script>
+</head>
+<body>
+	<div onmouseover="over()">
+		<h1>DIV1</h1>
+	</div>
+	<div>
+	<form>
+		<href onclick="this.innerHTML=ok()"><h2>click</h2></href>
+
+	</form>
+</div>
+</body>

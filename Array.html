@@ -1,0 +1,23 @@
+<html>
+<script>
+function arrayConstruct()
+{
+var len = arguments.length;
+var a = new Array(len);
+var i;
+alert("Length = "+len);
+for(i=0;i<len;i++)
+{
+a[i]=arguments[i];
+document.getElementById("div1").innerHTML+=a[i]+"<br/>";
+}
+document.getElementById("div2").innerHTML=a.sort(function(a, b){return a - b});
+}
+</script>
+
+<body>
+<div id=div1></div>
+<div id=div2></div>
+<input type=button onclick="arrayConstruct(15,4,25,18)" value=constructArray>
+</body>
+</html>

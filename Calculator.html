@@ -1,0 +1,55 @@
+<html>
+<head>
+	<h1>Javascript Events</h1>
+</head>
+<script type="text/javascript">
+	function addition()
+	{
+		value1=parseInt(document.getElementById("num1").value);
+		value2=parseInt(document.getElementById("num2").value);
+		Result=document.getElementById("result");
+		Result.value=value1+value2;
+	}
+	function multiplication()
+	{
+		value1=parseInt(document.getElementById("num1").value);
+		value2=parseInt(document.getElementById("num2").value);
+		Result=document.getElementById("result");
+		Result.value=value1*value2;
+	}
+	function division()
+	{
+		value1=parseInt(document.getElementById("num1").value);
+		value2=parseInt(document.getElementById("num2").value);
+		Result=document.getElementById("result");
+		Result.value=value1/value2;
+	}
+	function substraction()
+	{
+		value1=parseInt(document.getElementById("num1").value);
+		value2=parseInt(document.getElementById("num2").value);
+		Result=document.getElementById("result");
+		Result.value=value1-value2;
+	}
+</script>
+<body>
+	<div>
+		<form>
+			<div>
+				<b>Value1=<input type="text" pattern="[0-9]" title="No numbers are allowed" id="num1" name="value1"></b>
+				</t>
+				<b>Value2=<input type="text" id="num2" name="value2"></b>
+			</div>
+				</br>
+			<div>
+				<input type="button" name="Submit" value="Addition" onclick="addition()">
+				<input type="button" name="Submit" value="Multiplication" onmouseover="multiplication()" >
+				<input type="button" name="Submit" value="Division" onclick="division()" >
+				<input type="button" name="Submit" value="Substraction" onmouseover="substraction()" >
+			</div>
+				</br>
+				<b>Result=<input type="text" id="result"></b>
+		</form>
+	</div>
+</body>
+</html>
