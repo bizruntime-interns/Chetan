@@ -1,0 +1,7 @@
+C:\Users\Chetan Patel\source\repos\ProtectedAM\ProtectedAM\bin\Debug\ProtectedAM.exe.config
+C:\Users\Chetan Patel\source\repos\ProtectedAM\ProtectedAM\bin\Debug\ProtectedAM.exe
+C:\Users\Chetan Patel\source\repos\ProtectedAM\ProtectedAM\bin\Debug\ProtectedAM.pdb
+C:\Users\Chetan Patel\source\repos\ProtectedAM\ProtectedAM\obj\Debug\ProtectedAM.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\source\repos\ProtectedAM\ProtectedAM\obj\Debug\ProtectedAM.csproj.CoreCompileInputs.cache
+C:\Users\Chetan Patel\source\repos\ProtectedAM\ProtectedAM\obj\Debug\ProtectedAM.exe
+C:\Users\Chetan Patel\source\repos\ProtectedAM\ProtectedAM\obj\Debug\ProtectedAM.pdb

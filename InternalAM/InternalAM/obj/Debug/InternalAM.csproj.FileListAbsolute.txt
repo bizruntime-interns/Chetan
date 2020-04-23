@@ -1,0 +1,7 @@
+C:\Users\Chetan Patel\source\repos\InternalAM\InternalAM\bin\Debug\InternalAM.exe.config
+C:\Users\Chetan Patel\source\repos\InternalAM\InternalAM\bin\Debug\InternalAM.exe
+C:\Users\Chetan Patel\source\repos\InternalAM\InternalAM\bin\Debug\InternalAM.pdb
+C:\Users\Chetan Patel\source\repos\InternalAM\InternalAM\obj\Debug\InternalAM.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\source\repos\InternalAM\InternalAM\obj\Debug\InternalAM.csproj.CoreCompileInputs.cache
+C:\Users\Chetan Patel\source\repos\InternalAM\InternalAM\obj\Debug\InternalAM.exe
+C:\Users\Chetan Patel\source\repos\InternalAM\InternalAM\obj\Debug\InternalAM.pdb

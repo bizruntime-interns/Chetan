@@ -1,0 +1,10 @@
+C:\Users\Chetan Patel\Desktop\Internship\11-02-2020\BasicOperations\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Chetan Patel\Desktop\Internship\11-02-2020\BasicOperations\LINQ\bin\Debug\LINQ.exe
+C:\Users\Chetan Patel\Desktop\Internship\11-02-2020\BasicOperations\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Chetan Patel\Desktop\Internship\11-02-2020\BasicOperations\LINQ\bin\Debug\log4net.dll
+C:\Users\Chetan Patel\Desktop\Internship\11-02-2020\BasicOperations\LINQ\bin\Debug\log4net.xml
+C:\Users\Chetan Patel\Desktop\Internship\11-02-2020\BasicOperations\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\Desktop\Internship\11-02-2020\BasicOperations\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Chetan Patel\Desktop\Internship\11-02-2020\BasicOperations\LINQ\obj\Debug\LINQ.csproj.CopyComplete
+C:\Users\Chetan Patel\Desktop\Internship\11-02-2020\BasicOperations\LINQ\obj\Debug\LINQ.exe
+C:\Users\Chetan Patel\Desktop\Internship\11-02-2020\BasicOperations\LINQ\obj\Debug\LINQ.pdb
