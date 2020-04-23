@@ -1,0 +1,37 @@
+<html>
+<head>
+    <script>
+        function suggest(str)
+        {
+            if(str.length==0)
+            {
+                document.getElementById("hint").innerHTML="";
+                return;
+            }
+            else
+            {
+                var xhttp= new XMLHttpRequest();
+                xhttp.onreadystatechange=function hint()
+                {
+                    if(xhttp.readyState==4 && xhttp.status==200)
+                    {   
+                        document.getElementById("hint").innerHTML=this.responseText;
+                    } 
+                };
+                xhttp.open("GET","FirstProgram.php?q=" + str,true);
+                xhttp.send();
+            }
+
+        }
+        var xhttp=new XMLHttpRequest()
+    </script>
+
+</head>
+<body>
+    <p>Start Typing</p>
+    <form>
+        NAME:<input type="text" onkeyup="suggest(this.value)">
+    </form>
+    <p>Suggestion:<div id="hint"></div></p>
+</body>
+</html>

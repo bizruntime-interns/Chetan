@@ -1,0 +1,28 @@
+<html>
+    <body>
+        <div id="demo">
+            <h1>XML Http Request</h1>
+            <button type="button" onclick="loadDoc('ajax.txt')">Change Content</button>
+        </div>
+        <script>
+            function loadDoc(url)
+            {
+                var http=new XMLHttpRequest();
+                http.onreadystatechange=function(){
+                    if(this.readyState==4 && this.status==200)
+                    {
+                        cfunction(this);
+                    }
+                }
+                http.open('GET',url,true);
+                http.send();
+            }
+
+            function cfunction()
+            {
+                    document.getElementById("demo").innerHTML=http.responseText;
+            }
+        </script>
+
+    </body>
+</html>
