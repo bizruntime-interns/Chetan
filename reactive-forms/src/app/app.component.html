@@ -1,0 +1,47 @@
+<div class="container-fluid">
+  <h2>Registration Form</h2>
+  <form [formGroup]='registractionForm'>
+    {{registractionForm.value | json}}
+
+    <div class="form-group">
+      <label>Username</label>
+      <input [class.is-invalid]="registractionForm.get('userName').invalid && registractionForm.get('userName').touched" formControlName="userName" type="text" class="form-control">
+      <!-- <small [class.d-none]="registractionForm.get('userName').valid || registractionForm.get('userName').untouched" class="text-danger">Username is required</small> -->
+      <div *ngIf="registractionForm.get('userName').invalid && registractionForm.get('userName').touched">
+        <small *ngIf="registractionForm.get('userName').errors?.required" class="text-danger">user name is required</small>
+        <small *ngIf="registractionForm.get('userName').errors?.minlength" class="text-danger">username must be of atleat 3 character</small>
+      </div>
+    </div>  
+
+    <div class="form-group">
+      <label>Password</label>
+      <input formControlName="password" type="password" class="form-control">
+    </div>
+
+    <div class="form-group">
+      <label>Confirm Password</label>
+      <input formControlName="confirmPassword" type="password" class="form-control">
+    </div>
+
+    <div formGroupName="address">
+
+      <div class="form-group">
+        <label>City</label>
+        <input formControlName="city" type="text" class="form-control">
+      </div>
+  
+      <div class="form-group">
+        <label>State</label>
+        <input formControlName="state" type="text" class="form-control">
+      </div>
+  
+      <div class="form-group">
+        <label>Postal Code</label>
+        <input formControlName="postalCode" type="text" class="form-control">
+      </div>
+    </div>
+    <button class="btn btn-primary" type="submit">Registration</button>
+    <button (click)="LoadApiData()" class="btn btn-secondary ml-2">Load API Data</button>
+
+  </form>
+</div>
