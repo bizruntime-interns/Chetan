@@ -1,0 +1,10 @@
+C:\Users\Chetan Patel\source\repos\InnerJoin\Linq\bin\Debug\Linq.exe.config
+C:\Users\Chetan Patel\source\repos\InnerJoin\Linq\bin\Debug\Linq.exe
+C:\Users\Chetan Patel\source\repos\InnerJoin\Linq\bin\Debug\Linq.pdb
+C:\Users\Chetan Patel\source\repos\InnerJoin\Linq\bin\Debug\log4net.dll
+C:\Users\Chetan Patel\source\repos\InnerJoin\Linq\bin\Debug\log4net.xml
+C:\Users\Chetan Patel\source\repos\InnerJoin\Linq\obj\Debug\Linq.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\source\repos\InnerJoin\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+C:\Users\Chetan Patel\source\repos\InnerJoin\Linq\obj\Debug\Linq.csproj.CopyComplete
+C:\Users\Chetan Patel\source\repos\InnerJoin\Linq\obj\Debug\Linq.exe
+C:\Users\Chetan Patel\source\repos\InnerJoin\Linq\obj\Debug\Linq.pdb

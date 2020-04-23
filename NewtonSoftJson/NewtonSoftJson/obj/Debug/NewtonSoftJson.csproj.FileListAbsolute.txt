@@ -1,0 +1,9 @@
+C:\Users\Chetan Patel\source\repos\NewtonSoftJson\NewtonSoftJson\bin\Debug\NewtonSoftJson.exe.config
+C:\Users\Chetan Patel\source\repos\NewtonSoftJson\NewtonSoftJson\bin\Debug\NewtonSoftJson.exe
+C:\Users\Chetan Patel\source\repos\NewtonSoftJson\NewtonSoftJson\bin\Debug\NewtonSoftJson.pdb
+C:\Users\Chetan Patel\source\repos\NewtonSoftJson\NewtonSoftJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Chetan Patel\source\repos\NewtonSoftJson\NewtonSoftJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Chetan Patel\source\repos\NewtonSoftJson\NewtonSoftJson\obj\Debug\NewtonSoftJson.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\source\repos\NewtonSoftJson\NewtonSoftJson\obj\Debug\NewtonSoftJson.csproj.CopyComplete
+C:\Users\Chetan Patel\source\repos\NewtonSoftJson\NewtonSoftJson\obj\Debug\NewtonSoftJson.exe
+C:\Users\Chetan Patel\source\repos\NewtonSoftJson\NewtonSoftJson\obj\Debug\NewtonSoftJson.pdb

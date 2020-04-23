@@ -1,0 +1,10 @@
+C:\Users\Chetan Patel\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe.config
+C:\Users\Chetan Patel\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.exe
+C:\Users\Chetan Patel\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\EventsAndDelegates.pdb
+C:\Users\Chetan Patel\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\log4net.dll
+C:\Users\Chetan Patel\source\repos\EventsAndDelegates\EventsAndDelegates\bin\Debug\log4net.xml
+C:\Users\Chetan Patel\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Chetan Patel\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.csproj.CopyComplete
+C:\Users\Chetan Patel\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.exe
+C:\Users\Chetan Patel\source\repos\EventsAndDelegates\EventsAndDelegates\obj\Debug\EventsAndDelegates.pdb

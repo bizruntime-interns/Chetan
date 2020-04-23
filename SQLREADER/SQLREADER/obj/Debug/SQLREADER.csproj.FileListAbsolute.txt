@@ -1,0 +1,9 @@
+C:\Users\Chetan Patel\source\repos\SQLREADER\SQLREADER\bin\Debug\SQLREADER.exe.config
+C:\Users\Chetan Patel\source\repos\SQLREADER\SQLREADER\bin\Debug\SQLREADER.exe
+C:\Users\Chetan Patel\source\repos\SQLREADER\SQLREADER\bin\Debug\SQLREADER.pdb
+C:\Users\Chetan Patel\source\repos\SQLREADER\SQLREADER\bin\Debug\log4net.dll
+C:\Users\Chetan Patel\source\repos\SQLREADER\SQLREADER\bin\Debug\log4net.xml
+C:\Users\Chetan Patel\source\repos\SQLREADER\SQLREADER\obj\Debug\SQLREADER.csprojAssemblyReference.cache
+C:\Users\Chetan Patel\source\repos\SQLREADER\SQLREADER\obj\Debug\SQLREADER.csproj.CopyComplete
+C:\Users\Chetan Patel\source\repos\SQLREADER\SQLREADER\obj\Debug\SQLREADER.exe
+C:\Users\Chetan Patel\source\repos\SQLREADER\SQLREADER\obj\Debug\SQLREADER.pdb
